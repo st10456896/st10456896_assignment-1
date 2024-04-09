@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">History Gram</string>
+    <string name="button">clear</string>
+    <string name="result">result</string>
+    <string name="editText">Enter Age</string>
+    <string name="infobox">infobox</string>
+</resources>
